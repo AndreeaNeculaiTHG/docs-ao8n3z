@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-kgla6l.privatetalks.online/sitemap.xml
